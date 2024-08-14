@@ -37,6 +37,7 @@ This is a simple Inventory Management System that allows users to manage and tra
 3. **Setup MongoDB Atlas:**
    - Create a new cluster on <a href="https://www.mongodb.com/">MongoDB Atlas</a>.
    - Create a database and obtain the connection URI.
+     
 4. **Configure environment variables:**
    - In the Backend directory, create a .env file with the following content:
      ```plaintext
